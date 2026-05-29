@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-05-29">
+  <shop>
+    <name>Фотокружок</name>
+    <url>https://fotokrujok.ru</url>
+    <email>elizamarkelova1@gmail.com</email>
+    <picture>https://static.tildacdn.com/tild3737-6364-4461-a433-343739313164/favicon.png</picture>
+    <description>Онлайн-курс мобильной фотографии: композиция, свет и обработка. Для начинающих и творческих людей.</description>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="600">Творчество</category>
+      <category id="605" parentId="600">Фотография</category>
+    </categories>
+    <offers>
+
+      <offer id="1">
+        <name>Мобильная фотография: Курс в записи</name>
+        <url>https://fotokrujok.ru/?tariff=solo</url>
+        <categoryId>605</categoryId>
+        <price>5500</price>
+        <currencyId>RUR</currencyId>
+        <description>Курс в записи для тех, кто хочет учиться в своём темпе без ограничения по времени. 7 видеоуроков по композиции, свету, цвету, жанрам мобильной фотографии и обработке снимков. Нужен только смартфон, опыт не требуется.</description>
+        <param name="Продолжительность" unit="час">7</param>
+        <param name="Формат обучения">Самостоятельно</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Курс</param>
+        <param name="Есть видеоуроки">true</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <param name="Есть бесплатная часть">false</param>
+        <param name="Часы в неделю">2</param>
+        <param name="План" unit="Основы кадра" hours="1" order="1">Ракурсы, объективы телефонов, экспозиция, диафрагма и выдержка.</param>
+        <param name="План" unit="Композиция" hours="1" order="2">Креативные приёмы на все случаи жизни, управление вниманием и настроением в кадре.</param>
+        <param name="План" unit="Свет" hours="1" order="3">Природа света, взаимодействие и влияние его на кадр, креативные световые решения.</param>
+        <param name="План" unit="Цвет" hours="1" order="4">Сочетания, восприятие, фотоохота в городе и обработка в приложениях.</param>
+        <param name="План" unit="Автопортреты" hours="1" order="5">Искусство съёмки самого себя, не ограничиваясь привычными селфи.</param>
+        <param name="План" unit="Визуальный дневник" hours="1" order="6">О вдохновении: как искать поводы для ежедневных съёмок и собирать коллекции кадров.</param>
+        <param name="План" unit="Городской репортаж" hours="1" order="7">Как ловить кадры на улице, замечать детали и создавать истории.</param>
+      </offer>
+
+      <offer id="2">
+        <name>Мобильная фотография: Курс с разбором домашних работ</name>
+        <url>https://fotokrujok.ru/?tariff=community</url>
+        <categoryId>605</categoryId>
+        <price>9500</price>
+        <currencyId>RUR</currencyId>
+        <description>Курс с живыми уроками, разбором домашних заданий и общением в закрытом чате. 9 занятий по композиции, свету, цвету, жанрам и обработке. Обратная связь от авторов на каждое домашнее задание. Нужен только смартфон, опыт не требуется.</description>
+        <param name="Продолжительность" unit="месяц">1</param>
+        <param name="Ближайшая дата">2026-09-09</param>
+        <param name="Формат обучения">В группе c наставником</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Курс</param>
+        <param name="Есть видеоуроки">true</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть вебинары">true</param>
+        <param name="Есть домашние работы">true</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">true</param>
+        <param name="Есть бесплатная часть">false</param>
+        <param name="Часы в неделю">3</param>
+        <param name="План" unit="Основы кадра" hours="2" order="1">Ракурсы, объективы телефонов, экспозиция, диафрагма и выдержка.</param>
+        <param name="План" unit="Композиция" hours="2" order="2">Креативные приёмы на все случаи жизни, управление вниманием и настроением в кадре.</param>
+        <param name="План" unit="Свет" hours="2" order="3">Природа света, взаимодействие и влияние его на кадр, креативные световые решения.</param>
+        <param name="План" unit="Цвет" hours="2" order="4">Сочетания, восприятие, фотоохота в городе и обработка в приложениях.</param>
+        <param name="План" unit="Автопортреты" hours="2" order="5">Искусство съёмки самого себя, не ограничиваясь привычными селфи.</param>
+        <param name="План" unit="Визуальный дневник" hours="2" order="6">О вдохновении: как искать поводы для ежедневных съёмок и собирать коллекции кадров.</param>
+        <param name="План" unit="Городской репортаж" hours="2" order="7">Как ловить кадры на улице, замечать детали и создавать истории.</param>
+        <param name="План" unit="Атмосферное видео" hours="2" order="8">Секреты вдохновляющих видео, ракурсы, монтаж и обработка в приложениях, работа с музыкой.</param>
+        <param name="План" unit="Секретный урок" hours="2" order="9">Тема раскрывается ближе к дате урока.</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
