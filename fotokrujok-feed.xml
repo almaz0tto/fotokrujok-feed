@@ -9,10 +9,6 @@
     <currencies>
       <currency id="RUR" rate="1"/>
     </currencies>
-    <categories>
-      <category id="600">Творчество</category>
-      <category id="605" parentId="600">Фотография</category>
-    </categories>
     <offers>
 
       <offer id="1">
